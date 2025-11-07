@@ -2,6 +2,8 @@
 
 A simple browser game where you control a cat catching snacks and dodging junk.
 
+**🎮 [Play the game online](https://catsnackdrop.vercel.app)** - No installation needed!
+
 ## First Time Setup
 
 ### Step 1: Check if You Have Node.js
